@@ -1,2 +1,2 @@
-# Hael Core rev01
+# hcore rev01
  Azerothcore ported to OPENBSD
